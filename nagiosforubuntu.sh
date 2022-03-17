@@ -1,2 +1,1 @@
 apt update
-echo swapnil
